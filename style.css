@@ -70,7 +70,7 @@ body {
     padding-top: 4.3vh;
     padding-left: 6.5vw;
     font-size: 1.7vw;
-    transition: all ease 0.3s;
+    transition: all ease 0.5s;
 }
 
 #anchors {
@@ -90,7 +90,7 @@ body {
     width: 35%;
     border-right: 2px solid black;
     text-decoration: none;
-    transition: all ease 0.3s;
+    transition: all ease 0.5s;
 }
 
 #anchors a h3 {
